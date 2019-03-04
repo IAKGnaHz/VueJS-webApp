@@ -1,5 +1,6 @@
 # VueJS-webApp
 
+
 ###基于Vue开发的单页面应用程序
 > 这是一个基于`Vue.js`制作的个人`webApp`,项目会长期更新
 
@@ -17,14 +18,14 @@
 *首页*
 ![](https://ws1.sinaimg.cn/large/006tKfTcly1g0r3thgqidj30da0l1aez.jpg)
 
-*新闻页*
-![](https://ws4.sinaimg.cn/large/006tKfTcly1g0r3v1slnaj30eh0kx772.jpg)
-
 *视频页*
 ![](https://ws1.sinaimg.cn/large/006tKfTcly1g0r3w8on77j30da0kfjzc.jpg)
 
 *视频分类*
 ![](https://ws3.sinaimg.cn/large/006tKfTcly1g0r3x4zontj30cw0koq8l.jpg)
+
+*新闻页*
+![](https://ws4.sinaimg.cn/large/006tKfTcly1g0r3v1slnaj30eh0kx772.jpg)
 
 #### 运行安装
 
