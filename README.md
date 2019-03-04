@@ -1,6 +1,5 @@
 # VueJS-webApp
 
-
 ###基于Vue开发的单页面应用程序
 
 > 这是一个基于`Vue.js`制作的个人`webApp`,项目会长期更新
